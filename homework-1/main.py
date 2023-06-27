@@ -2,7 +2,7 @@ from src.channel import Channel
 
 if __name__ == '__main__':
     moscowpython = Channel('UC-OVMPlMA3-YCIeg4z5z23A')
-    moscowpython.print_info()
+    moscowpython.get_info()
 
     """
 {
@@ -10,7 +10,7 @@ if __name__ == '__main__':
   "etag": "uAdmwT0aDhY9LmAzJzIafD6ATRw",
   "pageInfo": {
     "totalResults": 1,
-    "resultsPerPage": 5
+    "resultsP/home/sergey/PycharmProjects/.enverPage": 5
   },
   "items": [
     {
