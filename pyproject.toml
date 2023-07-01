@@ -7,7 +7,9 @@ readme = "README.md"
 packages = [{include = "youtube_analytics_project"}]
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
+isodate = "^0.6.1"
+coverage = "^7.2.7"
 
 
 [build-system]
