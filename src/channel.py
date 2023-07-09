@@ -58,7 +58,6 @@ class Channel:
     def __eq__(self, other):
         return self.subscriberCount == other.subscriberCount
 
-
     @classmethod
     def get_service(cls):
         """Класс-метод возвращающий объект для работы с YouTube API"""
